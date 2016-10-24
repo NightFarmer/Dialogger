@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_bgd_normal">#FFFFFF</color>
+    <color name="button_bgd_pressed">#EAEAEA</color>
+    <color name="split_line">#D7D7DB</color>
+</resources>
